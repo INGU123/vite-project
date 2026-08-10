@@ -1,0 +1,12 @@
+.fruvio{
+    outline:none;
+    text-decoration: underline;
+    justify-content: flex-end;
+    background-color: rgba(214, 216, 218, 0.473);
+    transition: all;
+    box-shadow: 1px 1px 13px aliceblue;
+    background-size:contain;
+    color: cornflowerblue;
+    cursor:copy;
+    overflow: scroll;
+}

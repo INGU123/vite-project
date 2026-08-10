@@ -1,0 +1,9 @@
+.correct{
+    background-color: rgb(112, 180, 112);
+}.correct:focus{
+    border-color: green;
+}.incorrect{
+    background-color: rgb(156, 62, 62);
+}.incorrect:focus{
+    border-color: red;
+}
